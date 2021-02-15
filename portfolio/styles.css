@@ -103,6 +103,7 @@ h1{
   display:flex;
   position:relative;
   justify-content:center;
+  font-weight: 800;
 }
 .skill-icon{
   float:left;
@@ -185,3 +186,12 @@ h1{
 form{
  margin-left:500px;
 }
+.social-icons{
+  display:flex;
+  margin-left:650px;
+  margin-bottom:20px;
+}
+.icon{
+  padding:10px;
+}
+
